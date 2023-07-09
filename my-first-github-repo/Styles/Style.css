@@ -1,0 +1,21 @@
+header img{
+    width: 10%;
+    
+}
+nav{
+    text-align: right;
+    text-size-adjust: 100px;
+}
+nav > ul > li{
+    display: inline;
+    margin: 10px;
+    padding: auto;
+    background-color: burlywood;
+    color: aliceblue;
+    
+}
+nav > ul > li > a{
+    text-decoration: none;
+    color: black;
+    
+}
